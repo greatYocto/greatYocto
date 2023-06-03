@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Dennis%20Cho's%20greatYocto)
 
+<img src="https://img.shields.io/badge/Yocto-007396?style=for-the-badge&logo=Yocto&logoColor=white">
 <!--
 **greatYocto/greatYocto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
