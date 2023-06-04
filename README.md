@@ -2,14 +2,14 @@
 
 <img src="https://img.shields.io/badge/Yocto-007396?style=for-the-badge&logo=Yocto&logoColor=white">
 
-This site is for Yocto book i've made
+This site is for Yocto book i've written
 <br/><br/>
 Bio
 - Developing BSP software in Hyundai mobis since 2020
 - Developing BCM and IBU software Using Autosar platform in Hyundai mobis since 2012
-- Developing Software platform in cellular phone in LG electronics
+- Developing Software platform in cellular phone in LG electronics from 2003 to 2012
 - Software Architect (KCSA), 2019
-- Hyundai Mobis software qualification certification, 2018
+- Hyundai Mobis software qualification certification in the first competition held, 2018
 - Bronze medal at the Korea University Programming Contest (ICPC-ACM), 2002
 - Started using Linux in 1999 to fulfil Bit Computer Network Expert Course Completion, 120th
 <br/>
