@@ -11,7 +11,7 @@ Bio
 - Software Architect (KCSA), 2019
 - Hyundai Mobis software qualification certification in the first competition held, 2018
 - Bronze medal at the Korea University Programming Contest (ICPC-ACM), 2002
-- Started using Linux in 1999 to fulfil Bit Computer Network Expert Course Completion, 120th
+- Started using Linux in 1999 to fulfil BIT Computer Network Expert Course Completion, 120th
 <br/>
 #### :pencil2: Dunfell install package in ubuntu <br/>
 $ sudo apt install gawk wget git-core diffstat unzip texinfo gcc-multilib build-essential chrpath socat cpio python3 python3-pip python3-pexpect xz-utils debianutils iputils-ping python3-git python3-jinja2 libegl1-mesa libsdl1.2-dev pylint3 xterm make xsltproc docbook-utils fop dblatex xmlto
