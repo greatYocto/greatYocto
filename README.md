@@ -19,6 +19,20 @@ $ sudo apt install gawk wget git-core diffstat unzip texinfo gcc-multilib build-
 #### :pencil2: Kirkstone install package in ubuntu <br/>
 $ sudo apt install gawk wget git diffstat unzip texinfo gcc build-essential chrpath socat cpio python3 python3-pip python3-pexpect xz-utils debianutils iputils-ping python3-git python3-jinja2 libegl1-mesa libsdl1.2-dev pylint3 xterm python3-subunit mesa-common-dev zstd liblz4-tool
 <br/><br/>
+<br/><br/>
+This book was written with the intention that others wouldn't have to go through the trial and error that the i experienced while studying after encountering a new domain for the first time.
+It started with curiosity, but as i began writing, it proved to be more challenging than anticipated. 
+Writing late into the night at study cafes after work, there were moments of questioning, 'Why am I putting myself through this?', 'How will readers perceive this content?' and various other concerns.
+However, just as nothing is achieved in life without effort, looking back, the time spent writing was a profoundly joyful experience for the author. 
+Upon closer inspection, even the content that was thought to be well understood revealed areas for improvement, and exploring concepts that were previously overlooked took up a significant amount of time.
+Yet, while reading related books and studying a lot of internet resources, valuable moments were spent learning more. 
+With the goal of creating a book suitable for practitioners working in the field, unnecessary grammar and tool usage were boldly omitted, and instead, practical functionalities were presented with examples and detailed explanations.
+<br/><br/>
+
+In a book by a popular YouTuber titled "Life is a Practical Experience," there is a passage that goes like this: 
+<br/>
+"Don't worry about getting older, and don't worry about starting too late. Instead, worry about not doing things properly. There is no such thing as a 'too late' in the world. There are only 'completed' and 'incomplete' in the world."
+<br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatYocto)](https://github.com/anuraghazra/github-readme-stats)
 
