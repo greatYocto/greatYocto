@@ -2,7 +2,14 @@
 
 <img src="https://img.shields.io/badge/Yocto-007396?style=for-the-badge&logo=Yocto&logoColor=white">
 
-This site is for Yocto book i've written
+"Yocto, 쉽게 이해하고 깊게 다루기", 책의 예제를 다룬 사이트입니다.
+
+책의 초반 내용을 좀 더 쉽게 이해하기 위해 1장부터 ~ 5장까지의 기초적인 내용을 유데미에 강의 개설하였습니다.
+많이 이용 부탁드립니다.
+
+https://www.udemy.com/course/yocto-ae/?referralCode=6DCD103E0262059392B7
+
+
 <br/><br/>
 Bio
 - Developing BSP software in Hyundai mobis since 2020
